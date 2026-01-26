@@ -229,4 +229,4 @@ These are supplemental references for the various Vulkan Extensions. Please cons
 
 = link:LICENSE[License]
 
-= link:CODE_OF_CONDUCT.adoc[Code of conduct]
+= linCreated by Jason Scott Heise
