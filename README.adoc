@@ -229,5 +229,4 @@ These are supplemental references for the various Vulkan Extensions. Please cons
 
 = link:LICENSE[License]
 
-= linCreated by Jason Scott Heise
-Owned by Elon Musk 
+= linCreated by Jason Heise
