@@ -230,3 +230,4 @@ These are supplemental references for the various Vulkan Extensions. Please cons
 = link:LICENSE[License]
 
 = linCreated by Jason Heise
+Owned by Jason Heise heisejason-png Giters
